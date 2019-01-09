@@ -23,7 +23,7 @@ end
 Relevant changes are documented in the [Changelog](CHANGELOG.html).
 
 ## Basic Usage and Build Configuration
-PropCheck allows to define properties, which automatically executed via `ExUnit`
+PropCheck allows you to define properties, which are automatically executed via `ExUnit`
 when running `mix test`. You find relevant information here:
 
 * details about the `property` macro are found in `PropCheck.Properties`,  
